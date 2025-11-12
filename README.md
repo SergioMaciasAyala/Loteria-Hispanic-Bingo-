@@ -1,3 +1,4 @@
+```
 ~Wikipedia page for the game https://en.wikipedia.org/wiki/Loter%C3%ADa
 How to Play:
 1. The game will start off with asking for a seed for consistency
@@ -85,12 +86,12 @@ and easier to manage. Classes also made it easier to control changes since every
 the project more complex. The code got longer and harder to follow, especially as I added more features. It was also tricky to keep the data in the 
 class organized as the game grew. Even though it added some challenges, using classes helped keep the code cleaner and easier to work with overall.
 
-3. Data Structure
+4. Data Structure
 For this game, I used vectors.They worked well for storing each player’s board because they made it easy to access and manage the cards. 
 Since the boards are a fixed 4x4 size, vectors were a simple and effective choice. They gave me the flexibility I needed without making things
 too complicated. Vectors also made it easier to shuffle and refill the deck, helping the game run smoothly without errors.
 
-4. Test Cases for Programming
+5. Test Cases for Programming
 To make sure the game worked correctly, I ran several test cases. I checked that cards were drawn in the right order and matched the expected results.
 I tested that player boards marked cards correctly when a drawn card matched. I also created situations where all cards were marked to 
 make sure the game recognized a winner. I tested what happened when the deck ran out of cards to make sure the game ended properly. I also tested 
@@ -102,3 +103,4 @@ The Lotería game went well overall. Organizing the code with classes and vector
 cards and determining winners. The main challenge was the added complexity of using classes, which made debugging take longer. I learned 
 valuable lessons in planning and in game programming. I believe I deserve full discretionary points for successfully implementing the
 features and improving the game.
+```
